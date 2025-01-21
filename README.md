@@ -52,7 +52,7 @@ Provides utility functions for tasks such as random date generation, configurati
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Z1EMN1AK/ChatGPTBasedSocialBot
    cd <repository-directory>
    ```
 
